@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.72c2b92d.css",
-    "main.js": "/static/js/main.174910fb.js",
+    "main.js": "/static/js/main.edb96f02.js",
     "static/media/pp.png": "/static/media/pp.1a7033ad2ee0c837a692.png",
     "static/media/nnsvg.png": "/static/media/nnsvg.a96ff23ab5e0b0dee8f5.png",
     "static/media/Monaspace Neon Var.ttf": "/static/media/Monaspace Neon Var.9a745b395fcdfb06d808.ttf",
@@ -23,6 +23,7 @@
     "static/media/supervised.png": "/static/media/supervised.c4ba0ef5f29ade2debc2.png",
     "static/media/crossval.png": "/static/media/crossval.41e3d684dd42da2429b3.png",
     "static/media/fourier.png": "/static/media/fourier.8288d1d3c5aa2be4c6e4.png",
+    "static/media/architecture.png": "/static/media/architecture.3572be96fe2dab7c4351.png",
     "static/media/gd.png": "/static/media/gd.27e23bc843587d56a167.png",
     "static/media/momentum.png": "/static/media/momentum.58a7dffbb9227809e7cc.png",
     "static/media/invitation.png": "/static/media/invitation.e4ea73406e95d8c12d7b.png",
@@ -36,10 +37,10 @@
     "static/media/poisson.png": "/static/media/poisson.17606f34996b946ee742.png",
     "index.html": "/index.html",
     "main.72c2b92d.css.map": "/static/css/main.72c2b92d.css.map",
-    "main.174910fb.js.map": "/static/js/main.174910fb.js.map"
+    "main.edb96f02.js.map": "/static/js/main.edb96f02.js.map"
   },
   "entrypoints": [
     "static/css/main.72c2b92d.css",
-    "static/js/main.174910fb.js"
+    "static/js/main.edb96f02.js"
   ]
 }
